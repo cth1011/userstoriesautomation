@@ -1,5 +1,5 @@
 # userstoriesautomation
-This is the automation of Meralco documentation and user stories.
+This is the automation of an electric company in the Philippines for documentation and user stories.
 
 The purpose of this program was to reduce the time spent on tediously mapping out test IDs, creating test cases from scratch, creating test appendices, creating a Traceability Matrix, copy pasting User Permission Matrix to their corresponding features, auto generating standard processes for each feature, and . The idea of the program was to direct the attention of Business Analysts on focusing the needs and requirements of the client, and not to be boggled by the formatting and structure of the documentation.
 
